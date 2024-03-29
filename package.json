@@ -155,5 +155,9 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "react-native-reanimated": "3.6.2",
+    "react-native-svg": "^15.1.0"
   }
 }

@@ -10,13 +10,7 @@ npm install react-native-dartboard
 
 ## Usage
 
-```js
-import { multiply } from 'react-native-dartboard';
-
-// ...
-
-const result = await multiply(3, 7);
-```
+See the example in `/example`
 
 ## Contributing
 
